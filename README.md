@@ -10,4 +10,4 @@ Unordered List
 
 ## Where it came from
 
-<div style="min-height:483px"><Graph></script><noscript><img src="https://datawrapper.dwcdn.net/vOH2p/full.png" alt="" /></noscript></div>
+<div style="min-height:483px"><Graph></Graph><noscript><img src="https://datawrapper.dwcdn.net/vOH2p/full.png" alt="" /></noscript></div>
