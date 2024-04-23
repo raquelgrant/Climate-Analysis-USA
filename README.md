@@ -9,7 +9,7 @@ Temperature Changes within the Differing States and Seasons in the United States
 
 ### How do I get started?
 
-# Visualizations
+## Visualizations
 
 <div style="min-height:483px"><Graph></Graph><noscript><img src="https://datawrapper.dwcdn.net/vOH2p/full.png" alt="" /></noscript></div>
 
