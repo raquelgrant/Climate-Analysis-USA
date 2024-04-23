@@ -3,9 +3,15 @@
 This repository draws on analyzing temperature changes throughout the seasons in the continental United States using information from The Washington Post's "2°C: Beyond the Limit."
 ### What does this repository contain?
 
-Temperature Changes within the Differing States and Seasons in the United States.
+- thing one
+- thing two
+- thing three
+  
 ### Where did this data come from?
 
+-it came from here
+-this is what i did to it
+-it also contained other things
 
 ## Visualizations
 
@@ -13,6 +19,9 @@ Temperature Changes within the Differing States and Seasons in the United States
 
 
 ### What can I do with it?
+
+-you can analyze duh
+-you could do further analysis with different things
 
 ### How do I get started?
 
