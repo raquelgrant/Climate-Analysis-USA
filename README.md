@@ -1,13 +1,13 @@
 # Climate Analysis USA
 
-## What does this repository contain?
+### What does this repository contain?
 
 Temperature Changes within the Differing States and Seasons in the United States.
-## Where did this data come from?
+### Where did this data come from?
 
-## What can I do with it?
+### What can I do with it?
 
-## How do I get started?
+### How do I get started?
 
 # Visualizations
 
