@@ -1,5 +1,6 @@
 # Climate Analysis USA
 
+This repository draws on analyzing temperature changes throughout the continental United States using information from The Washington Post's "2°C: Beyond the Limit."
 ### What does this repository contain?
 
 Temperature Changes within the Differing States and Seasons in the United States.
