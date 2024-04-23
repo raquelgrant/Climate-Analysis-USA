@@ -9,11 +9,13 @@ Unordered List
 
 ## What's Here
 
-## Where it came from
+## Where It Came From
+
+## Why It's Important
 
 <div style="min-height:483px"><Graph></Graph><noscript><img src="https://datawrapper.dwcdn.net/vOH2p/full.png" alt="" /></noscript></div>
 
 
 
-
-### This repository was made for usage in Professor Gotzler's English Class at the University of North Carolina at Chapel Hill. 
+Navigate to the (something) tab in order to get directions on how to recreate this process. 
+#### This repository was made for usage in Professor Gotzler's English Class at the University of North Carolina at Chapel Hill. 
