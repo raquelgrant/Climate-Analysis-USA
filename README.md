@@ -7,11 +7,15 @@ Unordered List
 - where it came from
 - what you can do with it
 
-## What's Here
+## What does this repository contain?
 
-## Where It Came From
+## Where did this data come from?
 
-## What You Can Do With It
+## What can I do with it?
+
+## How do I get started?
+
+# Visualizations
 
 <div style="min-height:483px"><Graph></Graph><noscript><img src="https://datawrapper.dwcdn.net/vOH2p/full.png" alt="" /></noscript></div>
 
