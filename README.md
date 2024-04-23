@@ -11,3 +11,4 @@ Unordered List
 ## Where it came from
 
 [Hyperlink to Data Source] (Add URL)
+![Winter Temperature Data Visualization](https://datawrapper.dwcdn.net/vOH2p/1/)
