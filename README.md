@@ -1,4 +1,5 @@
 # Climate Analysis USA
+
 Temperature Changes within the Differing States and Seasons in the United States. ADD FURTHER COPY FOR DESCRIPTION
 
 Unordered List
@@ -11,3 +12,8 @@ Unordered List
 ## Where it came from
 
 <div style="min-height:483px"><Graph></Graph><noscript><img src="https://datawrapper.dwcdn.net/vOH2p/full.png" alt="" /></noscript></div>
+
+
+
+
+### This repository was made for usage in Professor Gotzler's English Class at the University of North Carolina at Chapel Hill. 
