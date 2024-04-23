@@ -9,9 +9,9 @@ This repository draws on analyzing temperature changes throughout the seasons in
   
 ### Where did this data come from?
 
--it came from here
--this is what i did to it
--it also contained other things
+- it came from here
+- this is what i did to it
+- it also contained other things
 
 ## Visualizations
 
@@ -20,8 +20,8 @@ This repository draws on analyzing temperature changes throughout the seasons in
 
 ### What can I do with it?
 
--you can analyze duh
--you could do further analysis with different things
+- you can analyze duh
+- you could do further analysis with different things
 
 ### How do I get started?
 
