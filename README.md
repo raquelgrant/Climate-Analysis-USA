@@ -36,7 +36,7 @@ Since the subset displayed both winter temperature changes and annual temperatur
 
 ### What can I do with it?
 
-The data found in this repository can help guide further studies into climate change in the continental United States. Analyzing which areas of the country have the greatest increase in temperature, even if by just a fraction of degree, can be incredibly impactful. These analysises can help target causes and possibly discover solutions.
+The data found in this repository can help guide further studies into climate change in the continental United States. Analyzing which areas of the country have the greatest increase in temperature, even if by just a fraction of degree, can be incredibly impactful. These analyses can help target causes and possibly discover solutions.
 
 ### How do I get started?
 
