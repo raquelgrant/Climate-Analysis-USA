@@ -23,6 +23,9 @@ Since the subset displayed both winter temperature changes and annual temperatur
 >The map houses a gradient of colors to represent the differing severities of the temperature changes. The darkest blues have the lowest levels of temperature changes, then the sort of middling changes are a tan shade, with the most extreme changes being darker reds.
 
 
+<div style="min-height:556px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/vOH2p/embed.js?v=3" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/vOH2p/full.png" alt="" /></noscript></div>
+
+*While this is only an image of the map, you can visit [this link](https://www.datawrapper.de/_/vOH2p/) for an interactive version. It will allow you to roll over the states to see their names and exact temperature changes. 
 
 ### What can I do with it?
 
