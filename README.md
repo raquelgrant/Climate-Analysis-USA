@@ -1,6 +1,6 @@
 # Climate Analysis USA
 
-This repository draws on analyzing temperature changes throughout the seasons in the continental United States using information from The Washington Post's "2°C: Beyond the Limit."
+This repository draws on analyzing temperature changes throughout the seasons in the continental United States using information from The Washington Post's "2°C: Beyond the Limit." All temperatures are represented in Fahrenheit. 
  
 ### Where did the contents of this repository come from?
 
@@ -14,7 +14,7 @@ This repository draws on analyzing temperature changes throughout the seasons in
 -  A CSV file of the original dataset displaying the temperature changes through all 4 seasons, the maximum warming season, the annual temperature changes, and the states represented
 -  A CSV file of my filtered data set only displaying the winter and annual temperature changes with their respective states
 - The Python notebook I created for replication that specifically describes the steps I took to create the new subset of data  
-- The two choropleth maps I created to visualize the data.
+- The two choropleth maps I created to visualize the data
 
 ## Visualizations
 
@@ -34,8 +34,7 @@ Since the subset displayed both winter temperature changes and annual temperatur
 
 ### What can I do with it?
 
-- you can analyze duh
-- you could do further analysis with different things
+The data found in this repository can help guide further studies into climate change in the continental United States. Analyzing which areas of the country have the greatest increase in temperature, even if by just a fraction of degree, can be incredibly impactful. These analysises can help target causes and possibly discover solutions.
 
 ### How do I get started?
 
