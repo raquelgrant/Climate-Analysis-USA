@@ -13,8 +13,10 @@ This repository draws on analyzing temperature changes throughout the seasons in
 
 -  A CSV file of the original dataset displaying the temperature changes through all 4 seasons, the maximum warming season, the annual temperature changes, and the states represented
 -  A CSV file of my filtered data set only displaying the winter and annual temperature changes with their respective states
+   > These files can be found in the *Datasets* Folder.
 - The Python notebook I created for replication that specifically describes the steps I took to create the new subset of data  
 - The two choropleth maps I created to visualize the data
+   > These maps can be found in the *Visualizations* Folder.
 
 ## Visualizations
 
