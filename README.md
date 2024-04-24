@@ -26,6 +26,7 @@ Since the subset displayed both winter temperature changes and annual temperatur
 </script>
 
 
+
 *While this is only an image of the map, you can visit the map on [Datawrapper](https://www.datawrapper.de/_/EWX4t/) for an interactive version. This will allow you to roll over the states to see their names and exact temperature changes.*
 
 ### What can I do with it?
