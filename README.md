@@ -18,7 +18,10 @@ This repository draws on analyzing temperature changes throughout the seasons in
 
 ## Visualizations
 
-<div style="min-height:483px"><Graph></Graph><noscript><img src="https://datawrapper.dwcdn.net/vOH2p/full.png" alt="" /></noscript></div>
+Since the subset displayed both winter temperature changes and annual temperature changes, I thought it would be best to create two seperate visualizations for them. 
+
+>The map houses a gradient of colors to represent the differing severities of the temperature changes. The darkest blues have the lowest levels of temperature changes, then the sort of middling changes are a tan shade, with the most extreme changes being darker reds.
+
 
 
 ### What can I do with it?
