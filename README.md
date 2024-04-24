@@ -4,8 +4,8 @@ This repository draws on analyzing temperature changes throughout the seasons in
  
 ### Where did the contents of this repository come from?
 
-- This data was retrieved from a ***Washington Post*** repository for a study done using the National Oceanic and Atmospheric Administration's Climate Divisional Database (colloquially, nClimDiv). The study was performed in 2018 and then refined in 2019.
-> This was accessed through another GitHub page that can be found [here](https://github.com/washingtonpost/data-2C-beyond-the-limit-usa).
+- This data was retrieved from a **Washington Post** repository for a study done using the National Oceanic and Atmospheric Administration's Climate Divisional Database (colloquially, nClimDiv). The study was performed in 2018 and then refined in 2019.
+> This was accessed through another *GitHub* page that can be found [here](https://github.com/washingtonpost/data-2C-beyond-the-limit-usa).
 - The original repository also contained temperature change data for specific counties in the states and national yearly temperature averages from 1895 to 2019.
 - Using Google Colaboratory (a Jupyter Notebook service), I filtered the original dataset into a smaller more specific set of information. 
 
