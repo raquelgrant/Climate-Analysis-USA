@@ -38,5 +38,5 @@ The data found in this repository can help guide further studies into climate ch
 
 ### How do I get started?
 
-Navigate to the (something) tab in order to get directions on how to recreate this process. 
+Navigate to the *ProcessNotebook.ipynb* tab in order to get directions on how to recreate this process. 
 #### This repository was created by Raquel Grant for usage in Professor Gotzler's English Class at the University of North Carolina at Chapel Hill. 
