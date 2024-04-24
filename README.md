@@ -9,7 +9,7 @@ This repository draws on analyzing temperature changes throughout the seasons in
 - The original repository also contained temperature change data for specific counties in the states and national yearly temperature averages from 1895 to 2019.
 - Using *Google Colaboratory* (a notebook service used for simple coding), I filtered the original dataset into a smaller more specific set of information. 
 
-  ### What *are* the contents of this repository?
+### What *are* the contents of this repository?
 
 -  A CSV file of the original dataset displaying the temperature changes through all 4 seasons, the maximum warming season, the annual temperature changes, and the states represented
 -  A CSV file of my filtered data set only displaying the winter and annual temperature changes with their respective states
