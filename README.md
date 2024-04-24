@@ -29,7 +29,7 @@ Since the subset displayed both winter temperature changes and annual temperatur
 
 <noscript><img src="https://datawrapper.dwcdn.net/Of7kp/full.png" alt="" /></noscript></div>
 
->*This is again the image version of the map. The interactive version can be found at this [Datawrapper Link](https://www.datawrapper.de/_/Of7kp/)
+>*This is again the image version of the map. The interactive version can be found at this [Datawrapper Link](https://www.datawrapper.de/_/Of7kp/).*
 
 
 ### What can I do with it?
